@@ -1,4 +1,6 @@
-# radiobtn-with-images
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/43f453b67d6a43c9b0f6069b7071b0e5)](https://www.codacy.com/gh/nejdetkadir/radiobtn-with-images/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nejdetkadir/radiobtn-with-images&amp;utm_campaign=Badge_Grade)
+
+# radio button with images
 Sample dynamic radio button with images in VueJS. Enjoy it!
 
 ![cover](doc/cover.gif)
