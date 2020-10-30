@@ -1,4 +1,7 @@
 # radiobtn-with-images
+Sample dynamic radio button with images in VueJS. Enjoy it!
+
+![cover](doc/cover.gif)
 
 ## Project setup
 ```
